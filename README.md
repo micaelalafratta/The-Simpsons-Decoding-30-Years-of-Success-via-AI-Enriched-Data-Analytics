@@ -1,8 +1,11 @@
 # 📺 The Simpsons — Análisis de una serie de éxito
 
+<img width="2555" height="1347" alt="image" src="https://github.com/user-attachments/assets/108c5989-6be4-4f8e-81d1-f6664fa729cf" />
+
+
 ### Proyecto Colaborativo de Data Analytics | Adalab
 
-<img width="1837" height="725" alt="The Simpsons Data Project Header" src="[https://github.com/user-attachments/assets/9331f0b5-f2fa-4436-8434-0500aff21187](https://github.com/user-attachments/assets/9331f0b5-f2fa-4436-8434-0500aff21187)" />
+
 
 **🧠 Descripción del proyecto**
 *The Simpsons* es un proyecto integral de análisis y visualización de datos centrado en una de las series más icónicas y longevas de la historia. El objetivo principal es explorar y comprender este fenómeno cultural a través de un flujo completo de datos: **Adquisición → EDA → Visualización**.
